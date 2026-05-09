@@ -2,6 +2,14 @@
 
 Lightweight security utility to identify internet-exposed cPanel, WHM, and webmail administrative interfaces for authorized attack surface validation and hardening assessments.
 
+## Installation
+
+```bash
+git clone https://github.com/SreejaPuthan/cpanel-control-plane-exposure-check.git
+cd cpanel-control-plane-exposure-check
+pip install -r requirements.txt
+```
+
 ## Features
 
 - Detects exposed cPanel interfaces
