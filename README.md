@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python scanner.py -f targets.txt
+python cpanel_exposure_check.py -f targets.txt
 ```
 
 ---
